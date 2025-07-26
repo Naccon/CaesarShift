@@ -81,16 +81,6 @@ def caesar(original_text, shift_amount, encode_or_decode):
     print(f"Here is the {encode_or_decode}d result: {output_text}")
 ```
 
----
-
-## Author
-
-Naim Ibne Nasir  
-Electrical and Electronics Engineering student  
-Bangladesh Army University of Science and Technology (BAUST)
-
----
-
 ## License
 
 This project is free to use and modify.
