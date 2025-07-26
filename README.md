@@ -1,5 +1,5 @@
 
-# Caesar Cipher
+# CaesarShift
 
 A simple Python program that encrypts and decrypts messages using the Caesar Cipher technique.
 
